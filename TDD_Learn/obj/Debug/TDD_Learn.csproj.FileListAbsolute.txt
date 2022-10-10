@@ -1,0 +1,10 @@
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\bin\Debug\TDD_Learn.exe
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\bin\Debug\TDD_Learn.pdb
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\bin\Debug\nunit.framework.dll
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\bin\Debug\nunit.framework.xml
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\obj\Debug\TDD_Learn.csproj.AssemblyReference.cache
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\obj\Debug\TDD_Learn.csproj.SuggestedBindingRedirects.cache
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\obj\Debug\TDD_Learn.csproj.CoreCompileInputs.cache
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\obj\Debug\TDD_Learn.csproj.CopyComplete
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\obj\Debug\TDD_Learn.exe
+P:\_CSharp_Projects_\TDD_Learn\TDD_Learn\obj\Debug\TDD_Learn.pdb

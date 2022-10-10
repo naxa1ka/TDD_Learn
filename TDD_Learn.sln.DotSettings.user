@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dca37677_002D7bb7_002D4ee4_002Da0f8_002D122dda0af867/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter3.Tests.testEquality&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter4.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter1.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter2.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter5.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter6.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter7.Tests.TestMultiplication&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter7.Tests.testEquality&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0257A670-069E-465D-ABE5-586B12065422::.NETFramework,Version=v3.5::Chapter7.Tests.TestFrankMultiplication&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
